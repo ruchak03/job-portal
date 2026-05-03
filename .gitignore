@@ -1,0 +1,39 @@
+# ========================
+# Backend (Java/Maven)
+# ========================
+job-portal-backend/target/
+job-portal-backend/*.class
+job-portal-backend/.mvn/
+job-portal-backend/mvnw
+job-portal-backend/mvnw.cmd
+*.jar
+*.war
+*.log
+
+# IDE
+.idea/
+*.iml
+.eclipse/
+.settings/
+.classpath
+.project
+
+# ========================
+# Frontend (Node/React)
+# ========================
+job-portal-frontend/node_modules/
+job-portal-frontend/build/
+job-portal-frontend/.env.local
+job-portal-frontend/.env.development.local
+job-portal-frontend/.env.test.local
+job-portal-frontend/.env.production.local
+job-portal-frontend/npm-debug.log*
+job-portal-frontend/yarn-debug.log*
+job-portal-frontend/yarn-error.log*
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
