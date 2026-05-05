@@ -1,3 +1,12 @@
+## ⚠️ Project Status
+This project demonstrates a Job Portal system built using Java Spring Boot and React.
+
+- Frontend is functional and demonstrates UI.
+- Backend implementation is partially complete and may require additional setup.
+
+## Overview
+This project focuses on backend API design, CRUD operations, and frontend-backend integration.
+
 # 🏢 JobPortal - Full Stack Job Portal Application
 
 A full-stack **Job Portal Web Application** built with **React**, **Spring Boot**, **Hibernate**, and **MySQL** — perfect for your portfolio!
